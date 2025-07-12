@@ -19,3 +19,18 @@ body {
     height: auto;
     border-radius: 8px;
 }
+.infos{
+    flex: 2;
+    padding: 60px;
+    flex-direction: column;
+    justify-content: center;
+}
+.infos h1{
+    font=-sinze: 48px;
+    margin: 0;
+}
+.infos h2{
+    font-size: 24px;
+    margin-top: 10px;
+    color: #04122b;
+}
