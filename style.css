@@ -22,8 +22,9 @@ body {
 .infos{
     flex: 2;
     padding: 60px;
+    display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
 }
 .infos h1{
     font-size: 48px;
