@@ -70,4 +70,11 @@ body {
 footer{
     background-color: black;
     color: #d7eaff;
+    text-align: center;
+    padding: 20px;
+}
+footer p{
+    margin: 0;
+font-family: 'Courier New', Courier, monospace;
+font-size: 16px;
 }
