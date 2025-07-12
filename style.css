@@ -26,11 +26,16 @@ body {
     justify-content: center;
 }
 .infos h1{
-    font=-sinze: 48px;
+    font-size: 48px;
     margin: 0;
 }
 .infos h2{
     font-size: 24px;
     margin-top: 10px;
     color: #04122b;
+}
+.infos p{
+    font: 18px;
+    margin: 10px;
+
 }
