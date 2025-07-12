@@ -3,39 +3,46 @@ body {
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
 }
-.inicio{
+
+.inicio {
     display: flex;
     height: 100vh;
 }
-.foto{
-    flex:1;
+
+.foto {
+    flex: 1;
     background-color: #0A3172;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.foto img{
-    width: 300px;
+
+.foto img {
+    width: 350px;
     height: auto;
     border-radius: 8px;
 }
-.infos{
+
+.infos {
     flex: 2;
     padding: 60px;
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: center;
 }
-.infos h1{
+
+.infos h1 {
     font-size: 48px;
     margin: 0;
 }
-.infos h2{
+
+.infos h2 {
     font-size: 24px;
     margin-top: 10px;
     color: #04122b;
 }
-.infos p{
+
+.infos p {
     font: 18px;
     margin: 10px;
 
