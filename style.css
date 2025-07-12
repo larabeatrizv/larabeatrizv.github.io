@@ -28,7 +28,7 @@ body {
     padding: 60px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
 }
 
 .infos h1 {
@@ -44,6 +44,17 @@ body {
 
 .infos p {
     font: 18px;
-    margin: 10px;
-
+    margin: 10px 0;
+}
+.social{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.4rem;
+    margin-top: 1.4rem;
+}
+.social a{
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+    color: #04122b;
 }
