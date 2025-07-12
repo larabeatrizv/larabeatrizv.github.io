@@ -64,6 +64,6 @@ body {
     text-align: center;
 }
 .social a:hover{
-    color: darkturquoise;
-    background-color: aquamarine;
+    color: rgb(55, 156, 223);
+    background-color: rgb(127, 225, 255);
 }
