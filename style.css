@@ -57,4 +57,9 @@ body {
     place-items: center;
     text-decoration: none;
     color: #04122b;
+    border: 1.6px solid black;
+    font-size: 1.5rem;
+    border-radius: 50%;
+    padding: 0.39rem;
+    text-align: center;
 }
