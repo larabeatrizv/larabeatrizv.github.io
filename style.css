@@ -82,7 +82,7 @@ font-size: 16px;
 .sobre {
   display: flex; /* Faz com que as seções (.sobre-mim e .habilidades) fiquem lado a lado */
   flex-wrap: wrap; /* Permite que as seções quebrem para a próxima linha em telas menores */
-  background-color: #fff; /* Define a cor de fundo como branco */
+  background-color: #7FA9D7; /* Define a cor de fundo como branco */
   padding: 60px 80px; /* Adiciona espaçamento interno: 60px em cima/baixo, 80px nas laterais */
   gap: 40px; /* Adiciona um espaçamento de 40 pixels entre as seções */
 }
